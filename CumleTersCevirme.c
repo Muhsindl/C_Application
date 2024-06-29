@@ -2,6 +2,7 @@
 
 int main()
 {
+    //Varsayılan bir metin tanımlanır.
     char metin[50];
     //Kullanıcıdan cümle alınır
     printf("Metin giriniz: ");
