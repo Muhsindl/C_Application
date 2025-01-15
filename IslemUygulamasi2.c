@@ -1,4 +1,4 @@
-// Formül: toplam = ∑ (x^i) / (i!)  [i=1'den sayi'ya kadar]
+// Formül: toplam = ∑ (x^i) / (i!)
 
 #include <stdio.h>
 #include <math.h>
