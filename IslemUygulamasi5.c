@@ -18,7 +18,7 @@ int main()
     }
   // Ortalamanın ekranda gösterilmesi
     printf("Ortalama: %.2f\n",(toplam/elemanSayisi));
-    
+ // Varsayılan olarak dizinin ilk elemanı minimum ve maximum olarak atanıyor. 
     min=dizi[0];
     max=dizi[0];
   // Minimum ve maximum elemanın ekranda gösterilmesi
