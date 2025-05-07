@@ -1,13 +1,21 @@
-# Muhsin DOLU C Dili Algoritma Çalışmaları
+# 🧮 Muhsin DOLU - C Dili Algoritma Çalışmaları
 
-Merhaba,
+Merhaba,  
+Ben **Muhsin DOLU**, bir yazılım mühendisiyim. Bu depo, **C programlama dili** kullanılarak geliştirdiğim çeşitli **algoritma çalışmalarını** içermektedir.  
+Her algoritma, belirli bir problemi çözmek amacıyla dosyalar halinde düzenlenmiştir.
 
-Ben Muhsin DOLU, bir yazılım mühendisiyim. Bu repository, C dili kullanılarak yapılmış çeşitli algoritma çalışmalarını içermektedir. Her bir algoritma, dosyalar halinde düzenlenmiştir.
+## 🚀 Nasıl Kullanılır?
 
-Bu dosyaları indirip bilgisayarınızda kullanabilirsiniz. Her bir algoritmanın nasıl çalıştığını anlamak için ilgili kaynak kodlarına göz atabilirsiniz.
+Bu repodaki dosyaları indirerek kendi bilgisayarınızda **C geliştirme ortamında** (örneğin, GCC veya Code::Blocks) çalıştırabilirsiniz.  
+Her algoritma örneği, kaynak kodları ile birlikte gelmektedir ve kolayca anlaşılabilir şekilde yapılandırılmıştır.
 
-Eğer herhangi bir sorunuz veya yardım talebiniz olursa, bana [muhsindolu06@gmail.com](mailto:muhsindolu06@gmail.com) üzerinden ulaşabilirsiniz.
+## ❓ Destek ve İletişim
 
-İyi çalışmalar!
+Herhangi bir sorunuz olursa ya da destek almak isterseniz benimle iletişime geçebilirsiniz:
 
-Muhsin DOLU
+📧 [muhsindolu06@gmail.com](mailto:muhsindolu06@gmail.com)
+
+---
+
+İyi çalışmalar!  
+**Muhsin DOLU**
