@@ -1,4 +1,4 @@
-// ∑i=0 5*i+6 denklemi çözümü
+// ∑i=0 5*i+6 denklem çözümü
 #include <stdio.h>
 
 int main()
