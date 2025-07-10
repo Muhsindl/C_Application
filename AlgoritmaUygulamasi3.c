@@ -9,7 +9,6 @@ int main()
     
     // Kullanıcıdan sayı alınması
     printf("Lütfen sayı giriniz: ");
-    // Kullanıcıdan sayıyı alıyoruz
     scanf("%d", &sayi);  
     
     // Döngü, sayıya kadar olan her sayıyı işler
@@ -19,12 +18,12 @@ int main()
             toplam += (double)sayi;  
         }else{
             // Eğer i tekse, sayıyı faktöriyelinin bölümüyle toplama ekliyoruz
-            toplam += (double)sayi / fact(i);  // 'fact(i)' burada doğru kullanım
+            toplam += (double)sayi / fact(i);
         }
     }
 
-    // Sonuç ekrana yazdırılırken adres değil, değeri yazdırmalıyız
-    printf("İşlem sonucu: %.2f\n", toplam); // '+' hatalıydı, doğru kullanım sadece 'toplam' olmalı
+    // Sonuç ekrana yazdırılır
+    printf("İşlem sonucu: %.2f\n", toplam);
     
     return 0;
 }
