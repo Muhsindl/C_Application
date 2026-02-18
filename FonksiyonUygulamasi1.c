@@ -17,7 +17,7 @@ int main()
     scanf("%d", &deger);
     // Değer kadar döngü oluşturup hesaplamaları yapıyoruz.
     for (int i = 0; i <= deger; i++) {
-        hesap = (1.0 / faktoriyel(i)) + (float) i / faktoriyel(deger - i);
+        hesap += (1.0 / faktoriyel(i)) + (float) i / faktoriyel(deger - i);
     }
     // Sonucu ekrana yazdırıyoruz.
     printf("Cevap: %f\n", hesap);
